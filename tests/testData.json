@@ -1,0 +1,34 @@
+{
+    "buttons": {
+      "jalgpall": {
+        "selector": "[data-testid='category-button'][data-testkey='1']",
+        "url": "https://epicbet.com/et/sport/jalgpall",
+        "pageSelector": "[class='_90d63k2']",
+        "text": "Jalgpall"
+      },
+      "korvpall": {
+        "selector": "[data-testid='category-button'][data-testkey='6']",
+        "url": "https://epicbet.com/et/sport/korvpall",
+        "pageSelector": "[class='_90d63k2']",
+        "text": "Korvpall"
+      },
+      "tennis": {
+        "selector": "[data-testid='category-button'][data-testkey='9']",
+        "url": "https://epicbet.com/et/sport/tennis",
+        "pageSelector": "[class='_90d63k2']",
+        "text": "Tennis"
+      },
+      "võrkpall": {
+        "selector": "[data-testid='category-button'][data-testkey='12']",
+        "url": "https://epicbet.com/et/sport/vorkpall",
+        "pageSelector": "[class='_90d63k2']",
+        "text": "Võrkpall"
+      },
+      "MMA": {
+        "selector": "[data-testid='category-button'][data-testkey='24']",
+        "url": "https://epicbet.com/et/sport/mma",
+        "pageSelector": "[class='_90d63k2']",
+        "text": "MMA"
+      }
+    }
+  }
