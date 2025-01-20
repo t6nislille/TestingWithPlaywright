@@ -15,14 +15,14 @@ This repository contains an automated test suite built using [Playwright](https:
 ## Test Scenarios
 ### 1. **404 Error Page Validation**
    - Confirms that the 404 error page displays the error message.
-   - Verifies that incorrect url leads to the error page.
+   - Verifies that incorrect URL leads to the error page.
 
 ### 2. **Home Screen Button Validation**
-   - Confirms that these buttons appear on the home screen..
+   - Confirms that these buttons appear on the home screen.
 
 ### 3. **Responsive Visibility**
    - Confirms that the mobile menu button is visible in a mobile screen size.
-   - Confirms that the desctop menu buttons are visible in a desctop screen size.
+   - Confirms that the desktop menu buttons are visible in a desktop screen size.
 
 ---
 
